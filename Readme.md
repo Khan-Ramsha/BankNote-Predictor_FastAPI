@@ -14,7 +14,7 @@ Installation
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/your-repo-name.git 
+git clone https://github.com/Khan-Ramsha/BankNote-Predictor_FastAPI.git 
 cd BankNote-Predictor_FastAPI
 ```
 
