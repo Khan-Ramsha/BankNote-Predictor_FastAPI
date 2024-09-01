@@ -1,6 +1,6 @@
 ## Machine Learning Prediction API with FastAPI
 
-# This repository contains a machine learning prediction API built using FastAPI. The API allows users to send input data and receive predictions based on a trained machine learning model.
+### This repository contains a machine learning prediction API built using FastAPI. The API allows users to send input data and receive predictions based on a trained machine learning model.
 
 ## Features
 
