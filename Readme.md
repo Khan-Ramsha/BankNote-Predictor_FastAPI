@@ -20,12 +20,16 @@ cd BankNote-Predictor_FastAPI
 
 Install dependencies:
 
-``` pip install -r app/requirements.txt ```
+```
+ pip install -r app/requirements.txt 
+```
 
 Running the Application
 
 Start the FastAPI server:
-``` uvicorn app.main:app --reload ```
+```
+uvicorn app.main:app --reload
+```
 
 Access the API:
 
