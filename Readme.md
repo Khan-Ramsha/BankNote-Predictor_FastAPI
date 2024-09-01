@@ -13,18 +13,19 @@ Model Prediction: The API loads a pre-trained machine learning model (saved as a
 Installation
 Clone the repository:
 
-` git clone https://github.com/yourusername/your-repo-name.git `
-` cd BankNote-Predictor_FastAPI `
+```
+git clone https://github.com/yourusername/your-repo-name.git 
+cd BankNote-Predictor_FastAPI
+```
 
 Install dependencies:
 
-` pip install -r app/requirements.txt `
+``` pip install -r app/requirements.txt ```
 
 Running the Application
 
 Start the FastAPI server:
-`
-uvicorn app.main:app --reload `
+``` uvicorn app.main:app --reload ```
 
 Access the API:
 
